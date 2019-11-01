@@ -1,0 +1,4 @@
+useridentifier=development@salesbridge.be
+accesstoken=1000.3d18edd61a3216fb7a79197782c2a553.d0bc7e21172e7fd718757ea75897e576
+refreshtoken=1000.c80d03c010ccb9947c681555e6beec38.f302693b32b9782709643136d9eab282
+expirytime=1572622657022
